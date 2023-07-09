@@ -105,3 +105,19 @@ header {
     height: 50px;
     margin-top: 20px;
 }
+
+.footer {
+    align-items: center;
+    margin: auto;
+    width: 30%;
+}
+footer {
+    justify-content: space-between;
+    display: flex;
+    width: 30%;
+    align-items: center;
+}
+.copyright {
+    font-size: 10px;
+    margin-top: 10px;
+}
